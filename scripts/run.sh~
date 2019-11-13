@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES="1" ./scripts/run_tiger_gold.sh 1 > log_tiger_gold1
