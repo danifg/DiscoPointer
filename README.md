@@ -22,3 +22,12 @@ or
     ./scripts/eval_tiger.sh
 
 Please, do not hesitate to ask for the augmented dependency version of NEGRA and TIGER treebanks so that you can directly train the model.
+
+### Citation
+To appear in AAAI 2020.
+    
+### Acknowledgments
+This work has received funding from the European Research Council (ERC), under the European Union's Horizon 2020 research and innovation programme (FASTPARSE, grant agreement No 714150), from MINECO (FFI2014-51978-C2-2-R, TIN2017-85160-C2-1-R) and from Xunta de Galicia (ED431B 2017/01).
+
+### Contact
+If you have any suggestion, inquiry or bug to report, please contact d.fgonzalez@udc.es
