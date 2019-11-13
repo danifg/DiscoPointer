@@ -6,14 +6,14 @@ This implementation requires Python 2.7, PyTorch 0.3.1 and Gensim >= 0.12.0 for 
   
 
 ### Experiments
-To train the parser, just include the augmented dependency version of constituent datasets and embeddings in the corresponding ``negra``, ``tiger`` and ``embs`` folders, and run the following scripts depending on the treebank (NEGRA or TIGER) that you are working with:
+To train the parser, just include the augmented dependency version of constituent datasets and embeddings in the corresponding ``negra``, ``tiger`` and ``embs`` folders, and run the following scripts (in Python2) depending on the treebank (NEGRA or TIGER) that you are working with:
 
     ./scripts/train_negra.sh
 or
 
     ./scripts/train_tiger.sh
 
-Finally, to evalute the trained model, just use the following scripts to compute the F1 and Discontinuous F1 scores:
+Finally, to evalute the trained model, just use the following scripts (in Python3) to compute the F1 and Discontinuous F1 scores:
 
     ./scripts/eval_negra.sh
 
