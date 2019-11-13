@@ -1,7 +1,0 @@
-#CUDA_VISIBLE_DEVICES="1" ./scripts/run_tiger_gold.sh 1 > log_tiger_gold1
-
-CUDA_VISIBLE_DEVICES="1" ./scripts/run_negra_np.sh 2 > log_negra_np2
-CUDA_VISIBLE_DEVICES="1" ./scripts/run_negra_np.sh 3 > log_negra_np3
-
-CUDA_VISIBLE_DEVICES="1" ./scripts/run_negra_wo.sh 2 > log_negra_wo2
-CUDA_VISIBLE_DEVICES="1" ./scripts/run_negra_wo.sh 3 > log_negra_wo3
