@@ -10,12 +10,14 @@ To train the parser, just include the augmented dependency version of constituen
 
     ./scripts/train_negra.sh
 or
+
     ./scripts/train_tiger.sh
 
-Finally, to evalute the trained model, just use the following scripts, respectively, to compute the F1 and Discontinuous F1 scores:
+Finally, to evalute the trained model, just use the following scripts to compute the F1 and Discontinuous F1 scores:
 
     ./scripts/eval_negra.sh
 or
+
     ./scripts/eval_tiger.sh
 
 Please, do not hesitate to ask for the augmented dependency version of NEGRA and TIGER treebanks so that you can directly train the model.
