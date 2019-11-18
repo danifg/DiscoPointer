@@ -13,7 +13,7 @@ or
 
     ./scripts/train_tiger.sh
 
-Finally, to evalute the trained model, just use the following scripts (in Python3) to compute the F1 and Discontinuous F1 scores:
+Finally, to evaluate the trained model, just use the following scripts (in Python3) to compute the F1 and Discontinuous F1 scores:
 
     ./scripts/eval_negra.sh
 
