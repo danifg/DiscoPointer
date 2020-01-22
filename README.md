@@ -21,7 +21,7 @@ or
 
     ./scripts/eval_tiger.sh
 
-Please, do not hesitate to ask for the augmented dependency version of NEGRA and TIGER treebanks (obtained following the head rules described in the paper) and embeddings so that you can easily reproduce paper's results.
+Please, do not hesitate to ask for the augmented dependency version of NEGRA and TIGER treebanks (obtained following the head rules described in the paper) and embeddings so that you can easily reproduce AAAI20 results.
 
 ### Citation
 To appear in AAAI 2020.
