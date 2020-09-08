@@ -24,7 +24,19 @@ or
 Please, do not hesitate to ask for the augmented dependency version of NEGRA and TIGER treebanks (obtained following the head rules described in the paper) and embeddings so that you can easily reproduce AAAI20 results.
 
 ### Citation
-To appear in AAAI 2020.
+    @inproceedings{FerGomAAAI2020,
+      author    = {Daniel Fern{\'{a}}ndez{-}Gonz{\'{a}}lez and
+               Carlos G{\'{o}}mez{-}Rodr{\'{i}}guez},
+      title     = {Discontinuous Constituent Parsing with Pointer Networks},
+      booktitle = {Proceedings of the Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2020, New York, NY, USA,
+               February 7-12, 2020},
+      pages     = {7724--7731},
+      publisher = {{AAAI} Press},
+      year      = {2020},
+      url       = {https://aaai.org/ojs/index.php/AAAI/article/view/6275},
+      doi       = {https://doi.org/10.1609/aaai.v34i05.6275}
+    }
     
 ### Acknowledgments
 This work has received funding from the European Research Council (ERC), under the European Union's Horizon 2020 research and innovation programme (FASTPARSE, grant agreement No 714150), from MINECO (FFI2014-51978-C2-2-R, TIN2017-85160-C2-1-R) and from Xunta de Galicia (ED431B 2017/01).
